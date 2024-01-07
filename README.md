@@ -10,6 +10,7 @@ Simply enter the landmine's code into the terminal just as you would to toggle i
 Instead of disabling the mine as usual, it will immediately explode. Time this well and you just might kill a thumper (or the mechanical keyboard user)!
 
 ## Compatibility
+This is a client-side mod. Anyone with the mod will detonate landmines in the terminal. Anyone without the mod will disable them as usual.
 - Supported game versions:
 	- v45
 	- Older versions probably work just fine, but I haven't tried any.
