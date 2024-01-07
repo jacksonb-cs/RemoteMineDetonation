@@ -1,7 +1,7 @@
 {
-	"name": "Remote Mine Detonation",
+	"name": "RemoteMineDetonation",
 	"version_number": "1.0.0",
 	"website_url": "https://github.com/jacksonb-cs/RemoteMineDetonation",
 	"description": "A Lethal Company mod that replaces the ship terminal's ability to disable landmines with the ability to instead detonate them.",
-	"dependencies": []
+	"dependencies": ["BepInEx-BepInExPack-5.4.2100"]
 }
