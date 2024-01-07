@@ -1,3 +1,5 @@
+![Remote Mine Detonation Icon](icon.png)
+
 # Lethal Company: Remote Mine Detonation
 A Lethal Company mod that replaces the ship terminal's ability to disable landmines with the ability to instead detonate them.
 
@@ -19,3 +21,7 @@ Instead of disabling the mine as usual, it will immediately explode. Time this w
 
 ## Website
 Feel free to check out the (very simple) [source code on GitHub](https://github.com/jacksonb-cs/RemoteMineDetonation)! Please create a GitHub issue if any problems arise.
+
+## Attributions
+- Landmine graphic captured in-game
+- Explosion graphic used in icon: <a href="https://www.flaticon.com/free-icons/explosion" title="explosion icons">Explosion icons created by Good Ware - Flaticon</a>
